@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "+ybBd6iP3YMM/rKXPNrY8C9DHJwu5kZ8NCdXNTMJbxo=",
+  "Source": "PascalWeb",
+  "BasePath": "_content/PascalWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PascalWeb\\wwwroot",
+      "Source": "PascalWeb",
+      "ContentRoot": "C:\\Users\\Zsombi\\source\\repos\\PascalWeb\\PascalWeb\\wwwroot\\",
+      "BasePath": "_content/PascalWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Zsombi\\source\\repos\\PascalWeb\\PascalWeb\\wwwroot\\index.html",
+      "SourceId": "PascalWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Zsombi\\source\\repos\\PascalWeb\\PascalWeb\\wwwroot\\",
+      "BasePath": "_content/PascalWeb",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Zsombi\\source\\repos\\PascalWeb\\PascalWeb\\wwwroot\\nagyonszep.css",
+      "SourceId": "PascalWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Zsombi\\source\\repos\\PascalWeb\\PascalWeb\\wwwroot\\",
+      "BasePath": "_content/PascalWeb",
+      "RelativePath": "nagyonszep.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\nagyonszep.css"
+    }
+  ]
+}
